@@ -1,3 +1,6 @@
 .idea
-.ipynb_checkpoints
+4_Computer_Vision/**/*.ipynb_checkpoints/
 venv
+4_Computer_Vision/data/
+requirements.txt
+.ipynb_checkpoints
