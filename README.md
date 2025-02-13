@@ -25,7 +25,7 @@ This repo is intended to:
 
 - Jupyter Notebooks for clear, reproducible analysis (most of it developed in Jupyter nitebook under Windows).
 - Visualizations using libraries like `matplotlib`, `seaborn`, and `plotly`.
-- Use of popular libraries such as `pandas`, `scikit-learn`, `tensorflow`, `keras`, and more.
+- Use of popular libraries such as `pandas`, `scikit-learn`, `tensorflow`, `Pytorch`, and more.
 
 ## Why This Repository?
 
